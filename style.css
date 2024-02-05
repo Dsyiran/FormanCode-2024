@@ -11,7 +11,7 @@ background: linear-gradient(blue, skyblue, blueviolet);
 
 a{
 
-  font-size: 25px;
+  font-size: 28px;
   color: rebeccapurple;
 }
 
@@ -22,7 +22,7 @@ p{
 
 h1 {
  
-   color: #3FD57B;
+   color: orange;
   font-size: 50pt;
   font-family: 'Black Ops One', system-ui;
 }
@@ -251,4 +251,10 @@ body .gist .gist-meta {
 
 .nav{
   display: none;
+}
+
+#milanote{
+  color: orangered;
+  font-size: 40px;
+  font-family: 'Workbench', sans-serif;
 }
